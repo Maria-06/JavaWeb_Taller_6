@@ -12,10 +12,11 @@ Creación del Repository Pattern
 <p align="center">
   <p>Metodo Crear</p>
   <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/f030e352-ed27-4b0a-aa27-27f0818d28c7">
-  <p>Metodo Listar</p>
+  <p>Metodo Listar Todos los Usuarios</p>
   <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/f6710fb6-3379-40a5-b886-a041575642e3">
   <p>Metodo Buscar por Id</p>
   <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/ac8a1c86-a918-42e1-8c04-076a1a73ad7a">
+  <p>Metodo Guardar</p>
   <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/78b35e36-8044-4772-ada2-405238c927b3">
   <p>Metodo Eliminar</p>
   <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/7b4604e2-157b-4691-a112-4e6bc221d1bb">
